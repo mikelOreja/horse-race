@@ -1,0 +1,17 @@
+C:\Users\mikel\source\repos\carrera\bin\Debug\net6.0-windows\carrera.exe
+C:\Users\mikel\source\repos\carrera\bin\Debug\net6.0-windows\carrera.deps.json
+C:\Users\mikel\source\repos\carrera\bin\Debug\net6.0-windows\carrera.runtimeconfig.json
+C:\Users\mikel\source\repos\carrera\bin\Debug\net6.0-windows\carrera.dll
+C:\Users\mikel\source\repos\carrera\bin\Debug\net6.0-windows\carrera.pdb
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.csproj.AssemblyReference.cache
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.Form1.resources
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.csproj.GenerateResource.cache
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.AssemblyInfoInputs.cache
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.AssemblyInfo.cs
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.dll
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\refint\carrera.dll
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.pdb
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\carrera.genruntimeconfig.cache
+C:\Users\mikel\source\repos\carrera\obj\Debug\net6.0-windows\ref\carrera.dll
